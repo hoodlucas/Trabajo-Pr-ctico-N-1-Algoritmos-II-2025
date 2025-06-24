@@ -1,0 +1,366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\TP 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|c:\\users\\usuario\\source\\repos\\tp 1\\tp 1\\recuperarcontrase\u00F1a.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\recuperarcontrase\u00F1a.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|c:\\users\\usuario\\source\\repos\\tp 1\\tp 1\\recuperarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\recuperarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|C:\\Users\\Usuario\\source\\repos\\TP 1\\tp 1\\recuperarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\recuperarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|c:\\users\\usuario\\source\\repos\\tp 1\\tp 1\\modificarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\modificarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|C:\\Users\\Usuario\\source\\repos\\TP 1\\tp 1\\modificarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\modificarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|c:\\users\\usuario\\source\\repos\\tp 1\\tp 1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|C:\\Users\\Usuario\\source\\repos\\TP 1\\tp 1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|c:\\users\\usuario\\source\\repos\\tp 1\\tp 1\\editarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\editarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|C:\\Users\\Usuario\\source\\repos\\TP 1\\tp 1\\editarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\editarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|c:\\users\\usuario\\source\\repos\\tp 1\\tp 1\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|c:\\users\\usuario\\source\\repos\\tp 1\\tp 1\\administrador.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\administrador.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|c:\\users\\usuario\\source\\repos\\tp 1\\tp 1\\resetearcontrase\u00F1a.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\resetearcontrase\u00F1a.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|c:\\users\\usuario\\source\\repos\\tp 1\\tp 1\\resetearcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\resetearcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|C:\\Users\\Usuario\\source\\repos\\TP 1\\tp 1\\resetearcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\resetearcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\21qTP 1.csproj|C:\\Users\\Usuario\\source\\repos\\TP 1\\tp 1\\recuperarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\21qTP 1.csproj|solutionrelative:tp 1\\recuperarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\21qTP 1.csproj|C:\\Users\\Usuario\\source\\repos\\TP 1\\tp 1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\21qTP 1.csproj|solutionrelative:tp 1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\21qTP 1.csproj|C:\\Users\\Usuario\\source\\repos\\TP 1\\tp 1\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\21qTP 1.csproj|solutionrelative:tp 1\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\21qTP 1.csproj|C:\\Users\\Usuario\\source\\repos\\TP 1\\tp 1\\registrarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\21qTP 1.csproj|solutionrelative:tp 1\\registrarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|c:\\users\\usuario\\source\\repos\\tp 1\\tp 1\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|c:\\users\\usuario\\source\\repos\\tp 1\\tp 1\\registrarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\registrarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|c:\\users\\usuario\\source\\repos\\tp 1\\tp 1\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|C:\\Users\\Usuario\\source\\repos\\TP 1\\tp 1\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{653A5DD4-FAD2-4D2D-A8B3-00A849A6D1D0}|TP 1\\TrabajoPr\u00E1cticoN\u00BA1.csproj|solutionrelative:tp 1\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 189,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Login.cs",
+              "RelativeDocumentMoniker": "TP 1\\Login.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Login.cs",
+              "RelativeToolTip": "TP 1\\Login.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:57:34.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModificarUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\ModificarUsuarios.cs",
+              "RelativeDocumentMoniker": "TP 1\\ModificarUsuarios.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\ModificarUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP 1\\ModificarUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T01:54:50.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModificarUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\ModificarUsuarios.cs",
+              "RelativeDocumentMoniker": "TP 1\\ModificarUsuarios.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\ModificarUsuarios.cs",
+              "RelativeToolTip": "TP 1\\ModificarUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:09:59.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecuperarContrase\u00F1a.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\RecuperarContrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "TP 1\\RecuperarContrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\RecuperarContrase\u00F1a.cs [Design]",
+              "RelativeToolTip": "TP 1\\RecuperarContrase\u00F1a.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T22:06:50.52Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecuperarContrase\u00F1a.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\RecuperarContrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "TP 1\\RecuperarContrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\RecuperarContrase\u00F1a.cs",
+              "RelativeToolTip": "TP 1\\RecuperarContrase\u00F1a.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:17:57.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecuperarContrase\u00F1a.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\RecuperarContrase\u00F1a.Designer.cs",
+              "RelativeDocumentMoniker": "TP 1\\RecuperarContrase\u00F1a.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\RecuperarContrase\u00F1a.Designer.cs",
+              "RelativeToolTip": "TP 1\\RecuperarContrase\u00F1a.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwEMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:06:42.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditarPerfil.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\EditarPerfil.cs",
+              "RelativeDocumentMoniker": "TP 1\\EditarPerfil.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\EditarPerfil.cs",
+              "RelativeToolTip": "TP 1\\EditarPerfil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:44:01.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditarPerfil.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\EditarPerfil.cs",
+              "RelativeDocumentMoniker": "TP 1\\EditarPerfil.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\EditarPerfil.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP 1\\EditarPerfil.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:27:11.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Login.cs",
+              "RelativeDocumentMoniker": "TP 1\\Login.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP 1\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T01:52:07.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Administrador.cs",
+              "RelativeDocumentMoniker": "TP 1\\Administrador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Administrador.cs",
+              "RelativeToolTip": "TP 1\\Administrador.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwv0UAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:51:13.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Administrador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Administrador.cs",
+              "RelativeDocumentMoniker": "TP 1\\Administrador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Administrador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP 1\\Administrador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T01:54:39.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Administrador.resx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Administrador.resx",
+              "RelativeDocumentMoniker": "TP 1\\Administrador.resx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Administrador.resx",
+              "RelativeToolTip": "TP 1\\Administrador.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-24T02:09:01.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResetearContrase\u00F1a.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\ResetearContrase\u00F1a.Designer.cs",
+              "RelativeDocumentMoniker": "TP 1\\ResetearContrase\u00F1a.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\ResetearContrase\u00F1a.Designer.cs",
+              "RelativeToolTip": "TP 1\\ResetearContrase\u00F1a.Designer.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAqwC4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:06:22.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResetearContrase\u00F1a.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\ResetearContrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "TP 1\\ResetearContrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\ResetearContrase\u00F1a.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP 1\\ResetearContrase\u00F1a.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:05:23.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResetearContrase\u00F1a.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\ResetearContrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "TP 1\\ResetearContrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\ResetearContrase\u00F1a.cs",
+              "RelativeToolTip": "TP 1\\ResetearContrase\u00F1a.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAWwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:54:38.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RecuperarContrase\u00F1a.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\RecuperarContrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "TP 1\\RecuperarContrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\RecuperarContrase\u00F1a.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP 1\\RecuperarContrase\u00F1a.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:16:04.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Administrador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Administrador.cs",
+              "RelativeDocumentMoniker": "TP 1\\Administrador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Administrador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP 1\\Administrador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:53:11.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Login.cs",
+              "RelativeDocumentMoniker": "TP 1\\Login.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP 1\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:00:33.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Usuario.cs",
+              "RelativeDocumentMoniker": "TP 1\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Usuario.cs",
+              "RelativeToolTip": "TP 1\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:49:51.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistrarUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\RegistrarUsuarios.cs",
+              "RelativeDocumentMoniker": "TP 1\\RegistrarUsuarios.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\RegistrarUsuarios.cs",
+              "RelativeToolTip": "TP 1\\RegistrarUsuarios.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:29:17.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegistrarUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\RegistrarUsuarios.cs",
+              "RelativeDocumentMoniker": "TP 1\\RegistrarUsuarios.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\RegistrarUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP 1\\RegistrarUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:14:40.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.resx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Login.resx",
+              "RelativeDocumentMoniker": "TP 1\\Login.resx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TP 1\\TP 1\\Login.resx",
+              "RelativeToolTip": "TP 1\\Login.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-20T15:00:27.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
