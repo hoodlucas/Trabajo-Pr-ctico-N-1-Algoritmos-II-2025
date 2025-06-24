@@ -1,0 +1,66 @@
+C:\Users\Usuario\source\repos\TP 1\TP 1\bin\Debug\net8.0-windows\TrabajoPrácticoNº1.exe
+C:\Users\Usuario\source\repos\TP 1\TP 1\bin\Debug\net8.0-windows\TrabajoPrácticoNº1.deps.json
+C:\Users\Usuario\source\repos\TP 1\TP 1\bin\Debug\net8.0-windows\TrabajoPrácticoNº1.runtimeconfig.json
+C:\Users\Usuario\source\repos\TP 1\TP 1\bin\Debug\net8.0-windows\TrabajoPrácticoNº1.dll
+C:\Users\Usuario\source\repos\TP 1\TP 1\bin\Debug\net8.0-windows\TrabajoPrácticoNº1.pdb
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\TP_1.Administrador.resources
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\TP_1.EditarPerfil.resources
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\TP_1.Login.resources
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\TP_1.ModificarUsuarios.resources
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\TP_1.RecuperarContraseña.resources
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\TP_1.RegistrarUsuarios.resources
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\TP_1.ResetearContraseña.resources
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.dll
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\refint\TrabajoPrácticoNº1.dll
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.pdb
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\TP 1\TP 1\obj\Debug\net8.0-windows\ref\TrabajoPrácticoNº1.dll
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\bin\Debug\net8.0-windows\TrabajoPrácticoNº1.exe
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\bin\Debug\net8.0-windows\TrabajoPrácticoNº1.deps.json
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\bin\Debug\net8.0-windows\TrabajoPrácticoNº1.runtimeconfig.json
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\bin\Debug\net8.0-windows\TrabajoPrácticoNº1.dll
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\bin\Debug\net8.0-windows\TrabajoPrácticoNº1.pdb
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TP_1.Administrador.resources
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TP_1.EditarPerfil.resources
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TP_1.Login.resources
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TP_1.ModificarUsuarios.resources
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TP_1.RecuperarContraseña.resources
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TP_1.RegistrarUsuarios.resources
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TP_1.ResetearContraseña.resources
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.csproj.GenerateResource.cache
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.AssemblyInfoInputs.cache
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.AssemblyInfo.cs
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.csproj.CoreCompileInputs.cache
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.dll
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\refint\TrabajoPrácticoNº1.dll
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.pdb
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.genruntimeconfig.cache
+C:\Users\D\Desktop\tp1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\ref\TrabajoPrácticoNº1.dll
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\bin\Debug\net8.0-windows\TrabajoPrácticoNº1.exe
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\bin\Debug\net8.0-windows\TrabajoPrácticoNº1.deps.json
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\bin\Debug\net8.0-windows\TrabajoPrácticoNº1.runtimeconfig.json
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\bin\Debug\net8.0-windows\TrabajoPrácticoNº1.dll
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\bin\Debug\net8.0-windows\TrabajoPrácticoNº1.pdb
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TP_1.Administrador.resources
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TP_1.EditarPerfil.resources
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TP_1.Login.resources
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TP_1.ModificarUsuarios.resources
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TP_1.RecuperarContraseña.resources
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TP_1.RegistrarUsuarios.resources
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TP_1.ResetearContraseña.resources
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.csproj.GenerateResource.cache
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.GeneratedMSBuildEditorConfig.editorconfig
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.AssemblyInfoInputs.cache
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.AssemblyInfo.cs
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.csproj.CoreCompileInputs.cache
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.dll
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\refint\TrabajoPrácticoNº1.dll
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.pdb
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\TrabajoPrácticoNº1.genruntimeconfig.cache
+F:\DANTE\TRABAJO PRACTICO 1\Trabajo-Practico-Algoritmos-II-2025-main\Trabajo-Practico-Algoritmos-II-2025-main\TP 1\obj\Debug\net8.0-windows\ref\TrabajoPrácticoNº1.dll
